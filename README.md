@@ -31,8 +31,8 @@ Thư mục update một số bài tập tự thực hành về phân tích dữ 
 
 * Hiểu về dữ liệu: import, read, clean, validate
      - Dữ liệu có phù hợp để khám phá?
-      - Có cần xây dựng lại dữ liệu phù hợp với câu hỏi?
- - Có cầy xây dựng lại câu hỏi phù hợp với dữ liệu?
+     - Có cần xây dựng lại dữ liệu phù hợp với câu hỏi?
+     - Có cầy xây dựng lại câu hỏi phù hợp với dữ liệu?
  - Kiểu biến:
   1. Dependent Variable: biến phụ thuộc
   2. Independent Variable: biến độc lập 
