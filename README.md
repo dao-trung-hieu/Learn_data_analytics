@@ -30,8 +30,8 @@ Thư mục update một số bài tập tự thực hành về phân tích dữ 
  Một quá trình trực quan hoá dữ liệu và thống kê tổng quát để có được cái nhìn tốt hơn về dữ liệu.
 
 * Hiểu về dữ liệu: import, read, clean, validate
- - Dữ liệu có phù hợp để khám phá?
- - Có cần xây dựng lại dữ liệu phù hợp với câu hỏi?
+     - Dữ liệu có phù hợp để khám phá?
+      - Có cần xây dựng lại dữ liệu phù hợp với câu hỏi?
  - Có cầy xây dựng lại câu hỏi phù hợp với dữ liệu?
  - Kiểu biến:
   1. Dependent Variable: biến phụ thuộc
@@ -52,9 +52,10 @@ Thư mục update một số bài tập tự thực hành về phân tích dữ 
   3. Interval: khoảng trị
     - Dữ liệu được sắp xếp có thứ tự, nhưng không phân bậc, khoảng cách giữa các biến là bằng nhau
     - Ví dụ: thang đo nhiệt độ từ 1 đến 100 độ C
-   4. Ratio: tỉ lệ
+  4. Ratio: tỉ lệ
     - Là kiểu interval, nhưng bao gồm giá trị 0
     - Ví dụ: thang đo nhiệt độ từ 0 đến 100 độ C  
+
 * Phương pháp thống kê
   - Descriptive statistics: thống kê mô tả 
   - Inferential statistics: thống kê suy luận  
