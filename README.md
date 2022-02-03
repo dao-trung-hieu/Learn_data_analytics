@@ -34,27 +34,27 @@ Thư mục update một số bài tập tự thực hành về phân tích dữ 
   - Có cần xây dựng lại dữ liệu phù hợp với câu hỏi?
   - Có cầy xây dựng lại câu hỏi phù hợp với dữ liệu?
   - Kiểu biến:
-     1. Dependent Variable: biến phụ thuộc
-     2. Independent Variable: biến độc lập 
-   - Kiểu dữ liệu:
-  1. Quantitative: định lượng 
+    1. Dependent Variable: biến phụ thuộc
+    2. Independent Variable: biến độc lập 
+  - Kiểu dữ liệu:
+    1. Quantitative: định lượng 
      - Raito: Discrete, Continuous
      - Interval: Discrete, Continuous
-  2. Qualitative: định tính 
+    2. Qualitative: định tính 
      - Categorical: Norminal, Ordinal
- - Thang đo dữ liệu
-  1. Nominal: biến định danh
-    - Dữ liệu phân loại không phân bậc
-    - Ví dụ: nam và nữ, tay trái và tay phải,... &#x1F914;
-  2. Ordinal: biến thứ tự
-    - Dữ liệu được sắp xếp có thứ tự, có thứ hạng hoặc phân bậc
-    - Ví dụ: thang đo cảm xúc yêu, ghét, buồn, chán,...
-  3. Interval: khoảng trị
-    - Dữ liệu được sắp xếp có thứ tự, nhưng không phân bậc, khoảng cách giữa các biến là bằng nhau
-    - Ví dụ: thang đo nhiệt độ từ 1 đến 100 độ C
-  4. Ratio: tỉ lệ
-    - Là kiểu interval, nhưng bao gồm giá trị 0
-    - Ví dụ: thang đo nhiệt độ từ 0 đến 100 độ C  
+  - Thang đo dữ liệu
+    1. Nominal: biến định danh
+     - Dữ liệu phân loại không phân bậc
+     - Ví dụ: nam và nữ, tay trái và tay phải,... &#x1F914;
+    2. Ordinal: biến thứ tự
+     - Dữ liệu được sắp xếp có thứ tự, có thứ hạng hoặc phân bậc
+     - Ví dụ: thang đo cảm xúc yêu, ghét, buồn, chán,...
+    3. Interval: khoảng trị
+     - Dữ liệu được sắp xếp có thứ tự, nhưng không phân bậc, khoảng cách giữa các biến là bằng nhau
+     - Ví dụ: thang đo nhiệt độ từ 1 đến 100 độ C
+    4. Ratio: tỉ lệ
+     - Là kiểu interval, nhưng bao gồm giá trị 0
+     - Ví dụ: thang đo nhiệt độ từ 0 đến 100 độ C  
 
 * Phương pháp thống kê
   - Descriptive statistics: thống kê mô tả 
