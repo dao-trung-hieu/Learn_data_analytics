@@ -20,7 +20,7 @@ Thư mục update một số bài tập tự thực hành về phân tích dữ 
   - Clustering: Bài toán phân cụm
   - Dimension Reduction: Bài toán giảm thứ nguyên
 ### &#x1F64F; Quy trình phân tích dữ liệu?
-- Là một vòng lặp không hồi kết #&#x1F602
+- Là một vòng lặp không hồi kết ### &#x1F602
 ### &#x1F64F; EDA, Exploratory Data Analysis là gì?
 - Một quá trình trực quan hoá dữ liệu và thống kê tổng quát để có được cái nhìn tốt hơn về dữ liệu.
 * Import, read, clean, and validate  
