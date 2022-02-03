@@ -50,10 +50,10 @@ Thư mục update một số bài tập tự thực hành về phân tích dữ 
      - Dữ liệu được sắp xếp có thứ tự, có thứ hạng hoặc phân bậc
      - Ví dụ: thang đo cảm xúc yêu, ghét, buồn, chán,...
     3. Interval: khoảng trị
-     - Dữ liệu được sắp xếp có thứ tự, nhưng không phân bậc, khoảng cách giữa các biến là bằng nhau
+     - Dữ liệu được sắp xếp có thứ tự, không phân bậc, khoảng cách giữa các biến là bằng nhau
      - Ví dụ: thang đo nhiệt độ từ 1 đến 100 độ C
     4. Ratio: tỉ lệ
-     - Là kiểu interval, nhưng bao gồm giá trị 0
+     - Là kiểu interval, bao gồm giá trị 0
      - Ví dụ: thang đo nhiệt độ từ 0 đến 100 độ C  
 
 * Phương pháp thống kê
