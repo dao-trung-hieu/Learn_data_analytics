@@ -1,6 +1,6 @@
 <img src="people-analyzing-growth.jpg">
 
-# Practice_analysis
+# Practice analysis
 
 Thư mục update một số bài tập tự thực hành về phân tích dữ liệu
 
