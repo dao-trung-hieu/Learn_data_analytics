@@ -27,7 +27,7 @@ Thư mục update một số bài tập tự thực hành về phân tích dữ 
     4. Exploratory Data Analysis, EDA
     5. Drawing conclusions
 ### &#x1F64F; EDA, Exploratory Data Analysis là gì?
-- Một quá trình trực quan hoá dữ liệu và thống kê tổng quát để có được cái nhìn tốt hơn về dữ liệu.
+ Một quá trình trực quan hoá dữ liệu và thống kê tổng quát để có được cái nhìn tốt hơn về dữ liệu.
 
 * Hiểu về dữ liệu: import, read, clean, validate
  - Dữ liệu có phù hợp để khám phá?
