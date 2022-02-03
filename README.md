@@ -21,72 +21,52 @@ Thư mục update một số bài tập tự thực hành về phân tích dữ 
   - Dimension Reduction: Bài toán giảm thứ nguyên
 ### &#x1F64F; Quy trình phân tích dữ liệu?
 - Là một vòng lặp không hồi kết &#x1F602;
+    1. Defind question
+    2. Collection data
+    3. Wranglind data 
+    4. Exploratory Data Analysis, EDA
+    5. Drawing conclusions
 ### &#x1F64F; EDA, Exploratory Data Analysis là gì?
 - Một quá trình trực quan hoá dữ liệu và thống kê tổng quát để có được cái nhìn tốt hơn về dữ liệu.
-* Import, read, clean, and validate  
-  - Define Variables
-    1. Y is "Dependent Variable" and goes on y-axis (the left side, vertical one) - output value
-    2. X is "Independent Variable" and goes on the x-axis (the bottom, horizontal one) - input value
-  - Type of Data  
-    1. Quantitative
-      - Ratio or Interval
-        - Discrete and Continuous  
-        Discrete variables can only take certain numerical values and are counted  
-        Continuous variables can take any numerical value and are measured
-    2. Qualitative  
-      - Norminal or Ordinal
-        - Binary, nominal data, and ordinal data  
-        Categorical variables take category or label values and place an individual into one of several groups.
-  - Type of data measurements 
-    1. Nominal - names or labels variable  
-    For example, gender: male and female. Other examples include eye colour and hair colour.  
-    2. Ordinal - non-numeric concepts like satisfaction, happiness, discomfort, etc.  
-    For example: is rating happiness on a scale of 1-10.  
-    3. Interval - numeric scales in which we know both the order and the exact differences between the values  
-    For example: interval data is temperature, the difference in temperature between 10-20 degrees is the same as the difference in temperature between 20-30 degrees.  Likert scale is type of data. Likert scale is composed of a series of four or more Likert-type items that represent similar questions combined into a single composite score/variable. Likert scale data can be analyzed as interval data, i.e. the mean is the best measure of central tendency. use means and standard deviations to describe the scale. For example, it is a rating scale, often found on survey forms, that measures how people feel about something. It includes a series of questions that you ask people to answer, and ideally 5-7 balanced responses people can choose from. It often comes with a neutral midpoint.  
-    4. Ratio - measurement scales  
-    For example: data it must have a true zero, meaning it is not possible to have negative values in ratio data. Ratio data is measurements of height be that centimetres, metres, inches or feet.  
-    
-
-    
-* Visualize distributions  
-  - Univariate visualization  
+* Hiểu về dữ liệu: import, read, clean, validate
+- Dữ liệu có phù hợp để khám phá?
+- Có cần xây dựng lại dữ liệu phù hợp với câu hỏi?
+- Có cầy xây dựng lại câu hỏi phù hợp với dữ liệu?
+- Kiểu biến:
+  1. Dependent Variable: biến phụ thuộc
+  2. Independent Variable: biến độc lập 
+- Kiểu dữ liệu:
+  1. Quantitative: định lượng 
+     - Raito: Discrete, Continuous
+     - Interval: Discrete, Continuous
+  2. Qualitative: định tính 
+     - Categorical: Norminal, Ordinal
+- Thang đo dữ liệu
+  1. Nominal: biến định danh
+    - Dữ liệu phân loại không phân bậc
+    - Ví dụ: nam và nữ, tay trái và tay phải,... &#x1F612
+  2. Ordinal: biến thứ tự
+    - Dữ liệu được sắp xếp có thứ tự, có thứ hạng hoặc phân bậc
+    - Ví dụ: thang đo cảm xúc yêu, ghét, buồn, chán,...
+  3. Interval: khoảng trị
+    - Dữ liệu được sắp xếp có thứ tự, nhưng không phân bậc, khoảng cách giữa các biến là bằng nhau
+    - Ví dụ: thang đo nhiệt độ từ 1 đến 100 độ C
+   4. Ratio: tỉ lệ
+    - Là kiểu interval, nhưng bao gồm giá trị 0
+    - Ví dụ: thang đo nhiệt độ từ 0 đến 100 độ C  
+* Phương pháp thống kê
+  - Descriptive statistics: thống kê mô tả 
+  - Inferential statistics: thống kê suy luận  
+* Trực quan hoá dữ liệu
+  - Univariate visualization 
   - Bivariate visualization  
   - Multivariate visualization  
-  - Dimensionality reduction  
-* Explore relations between variables
-  - Descriptive statistics  
-  - Inferential statistics  
-  - Statistical graphics  
-* Explore multivariate relationships  
-* Statistical Analysis
-  - Cases, Variables, Types of Variables  
-  - Matrix and Frequency Table  
-  - Graphs and Shapes of Distributions  
-  - Mode, Median and Mean  
-  - Range, Interquartile Range and Box Plot  
-  - Variance and Standard deviation  
-  - Z-scores  
-  - Contingency Table, Scatterplot, Pearson’s   
-  - Basics of Regression  
-  - Elementary Probability  
-  - Random Variables and Probability Distributions  
-  - Normal Distribution, Binomial Distribution & Poisson Distribution  
-  - Hypothesis  
-    3 Steps:     
-     (1) Making an initial assumption.  
-     (2) Collecting evidence (data).  
-     (3) Based on the available evidence (data), deciding whether to reject or not reject the initial assumption.  
-
-* Inferential Statistics  
-  - Observational Studies and Experiments  
-  - Sample and Population  
-  - Population Distribution, Sample Distribution and Sampling Distribution  
-  - Central Limit Theorem  
-  - Point Estimates  
-  - Confidence Intervals  
-  - Introduction to Hypothesis Testing  
-* Questions about data  
-  - Do you have the right data for exploratory data anlaysis?  
-  - Do you need other data?  
-  - Do you have the right question? 
+* Phân tích
+  - Biến, kiểu dữ liệu
+  - Phân phối cơ bản, đồ thị và hình dạng
+  - Xu hướng tập trung: Mode, Median, Mean
+  - Xu hướng phân tán: Variance, Standard deviation 
+  - Khoảng tin cậy CI
+  - Correlation Coefficient
+  - Xử lí outlier: Range, Interquartile Range, Box Plot, Z-scores
+  - Đặt và kiểm thử giả thuyết: A/B testing, ANOVA
