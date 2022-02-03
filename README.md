@@ -1,4 +1,4 @@
-<img src="DataSciencePython.PNG">
+<img src="https://www.behance.net/gallery/134914859/People-analyzing-growth-charts-concept-illustration">
 
 # Practice_analysis
 
