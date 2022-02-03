@@ -4,7 +4,7 @@
 
 Thư mục update một số bài tập tự thực hành về phân tích dữ liệu
 
-### &#x1F64F;công việc phân tích dữ liệu
+### &#x1F64F;Công việc phân tích dữ liệu
   - Diễn giải dữ liệu phức tạp thành đơn giả, biến dữ liệu thành thông tin dễ hiểu mà có ích, tìm ra các khuôn mẫu và xu hướng.  
   - Thu thập dữ liệu từ các nguồn dữ liệu khác nhau.
 ### &#x1F64F; Phân loại 
