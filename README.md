@@ -2,7 +2,7 @@
 
 # Practice analysis
 
-Thư mục update một số bài tập tự thực hành về phân tích dữ liệu
+Một số bài tập tự thực hành về phân tích dữ liệu
 
 Một chút kiến thức
 
