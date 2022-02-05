@@ -3,6 +3,7 @@
 # Practice analysis
 
 Thư mục update một số bài tập tự thực hành về phân tích dữ liệu
+Một chút kiến thức
 
 ### &#x1F64F;Công việc phân tích dữ liệu
   - Diễn giải dữ liệu phức tạp thành đơn giả, biến dữ liệu thành thông tin dễ hiểu mà có ích, tìm ra các khuôn mẫu và xu hướng.  
@@ -20,7 +21,7 @@ Thư mục update một số bài tập tự thực hành về phân tích dữ 
   - Clustering: Bài toán phân cụm
   - Dimension Reduction: Bài toán giảm thứ nguyên
 ### &#x1F64F; Quy trình phân tích dữ liệu?
-- Là một vòng lặp không hồi kết &#x1F602;
+- Một vòng lặp không hồi kết &#x1F602;
     1. Defind question
     2. Collection data
     3. Wranglind data 
