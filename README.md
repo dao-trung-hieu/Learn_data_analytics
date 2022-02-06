@@ -28,6 +28,7 @@ Một chút kiến thức
     3. Wranglind data 
     4. Exploratory Data Analysis, EDA
     5. Drawing conclusions
+    <img src = "image/Process of Data Analysis.jpg">
 ### &#x1F64F; EDA, Exploratory Data Analysis là gì?
  Một quá trình trực quan hoá dữ liệu và thống kê tổng quát để có được cái nhìn tốt hơn về dữ liệu.
 
