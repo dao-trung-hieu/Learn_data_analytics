@@ -47,7 +47,7 @@ Một chút kiến thức
      - Categorical: Norminal, Ordinal
   - Thang đo dữ liệu
     1. Nominal: biến định danh
-     - Dữ liệu phân loại không phân bậc
+     - Dữ liệu phân loại nhưng không phân bậc
      - Ví dụ: nam và nữ, tay trái và tay phải,... &#x1F914;
     2. Ordinal: biến thứ tự
      - Dữ liệu được sắp xếp có thứ tự, có thứ hạng hoặc phân bậc
