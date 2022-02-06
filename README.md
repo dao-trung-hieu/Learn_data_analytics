@@ -7,7 +7,7 @@ Một số bài tập nhỏ tự thực hành về phân tích dữ liệu
 Một chút kiến thức
 
 ### &#x1F64F;Công việc phân tích dữ liệu
-  - Diễn giải dữ liệu phức tạp thành đơn giả, biến dữ liệu thành thông tin dễ hiểu mà có ích, tìm ra các khuôn mẫu và xu hướng.  
+  - Diễn giải dữ liệu phức tạp thành đơn giản, biến dữ liệu thành thông tin dễ hiểu mà có ích, tìm ra các khuôn mẫu và xu hướng.  
   - Thu thập dữ liệu từ các nguồn dữ liệu khác nhau.
 ### &#x1F64F; Phân loại 
 * Descriptive Analysis:  
