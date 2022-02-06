@@ -14,7 +14,7 @@ Một chút kiến thức
 * Diagnostic Analysis  
 * Predictive Analysis  
 * Prescriptive Analysis
-### &#x1F64F; Bài toán dữ liệu
+### &#x1F64F; Bài toán dữ liệu học máy
 * Supervised Data: dữ liệu được gắn nhãn trước
   - Classification: Bài toán phân loại, dự đoán một danh mục (đơn giản nhất: danh mục nhị phân)
   - Regression: Bài toán hồi quy, dự đoán giá trị 
