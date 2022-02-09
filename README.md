@@ -2,7 +2,7 @@
 
 # Practice analysis
 
-Thực hành về phân tích dữ liệu
+Thực hành phân tích dữ liệu
 
 Ôn tập kiến thức
 
