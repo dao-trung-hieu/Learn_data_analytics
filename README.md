@@ -29,7 +29,7 @@ Một chút kiến thức
     4. Exploratory Data Analysis, EDA
     5. Drawing conclusions
     <img src = "image/Process of Data Analysis.jpg">
-### &#x1F64F; EDA, Exploratory Data Analysis là gì?
+### &#x1F64F; EDA, Exploratory Data Analysis
  Một quá trình trực quan hoá dữ liệu và thống kê tổng quát để có được cái nhìn tốt hơn về dữ liệu.
 
 * Hiểu về dữ liệu: import, read, clean, validate
