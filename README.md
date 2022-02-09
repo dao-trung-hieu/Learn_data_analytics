@@ -2,9 +2,9 @@
 
 # Practice analysis
 
-Một số bài tập nhỏ tự thực hành về phân tích dữ liệu
+Thực hành về phân tích dữ liệu
 
-Một chút kiến thức
+Ôn tập kiến thức
 
 ### &#x1F64F;Công việc phân tích dữ liệu
   - Diễn giải dữ liệu phức tạp thành đơn giản, biến dữ liệu thành thông tin dễ hiểu mà có ích, tìm ra các khuôn mẫu và xu hướng.  
